@@ -7,7 +7,7 @@ public class Programa {
         double ketvirtaSiena = 16.37;
         double pirmaSiena1 = 2;
         double antraSiena1 = 4;
-        double treciaSiena1 = 2;
+        double treciaSiena1 = 3;
         double ketvirtaSiena1 = 4.1;
 
 
